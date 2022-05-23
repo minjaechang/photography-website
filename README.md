@@ -1,2 +1,1 @@
-# photography-project
 # photography-website
